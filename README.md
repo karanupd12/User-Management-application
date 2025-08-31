@@ -2,7 +2,7 @@
 
 A modern, responsive CRUD application for managing users built with React, TypeScript, Vite, and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 - **Complete CRUD Operations** - Create, Read, Update, and Delete users
 - **Real-time Search** - Search across name, email, username, phone, city, and company
@@ -12,7 +12,7 @@ A modern, responsive CRUD application for managing users built with React, TypeS
 - **Loading States** - Smooth loading indicators and error handling
 - **Statistics Dashboard** - Overview of total users, companies, and cities
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React 18, TypeScript, Vite
 - **Styling:** Tailwind CSS
